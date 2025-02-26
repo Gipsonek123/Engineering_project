@@ -54,7 +54,7 @@ namespace Engineering_project.MVVM.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Engineering_project;component/mvvm/view/createaccountview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Engineering_project;V1.0.0.0;component/mvvm/view/createaccountview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\MVVM\View\CreateAccountView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
