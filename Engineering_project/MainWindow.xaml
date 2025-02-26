@@ -1,0 +1,25 @@
+﻿<Window x:Class="Engineering_project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Engineering_project"
+        xmlns:viewModel="clr-namespace:Engineering_project.MVVM.ViewModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1280">
+
+    <Window.DataContext>
+        <viewModel:MainViewModel/>
+    </Window.DataContext>
+
+    <Grid>
+        <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,100,0,0">
+            <TextBlock Text="Welcome to our application" FontSize="50" FontWeight="Bold" HorizontalAlignment="Center"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+                <Button Content="Log in" Width="200" Height="70" Margin="100" Command="{Binding NavigateToLoginCommand}"/>
+                <Button Content="Register" Width="200" Height="70" Margin="100" Command="{Binding NavigateToRegisterCommand}"/>
+            </StackPanel>
+            <ContentControl Content="{Binding CurrentView}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Window>

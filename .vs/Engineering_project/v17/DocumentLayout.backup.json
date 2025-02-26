@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\gipso\\onedrive\\pulpit\\engineering_project\\engineering_project\\mvvm\\view\\createaccountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\mvvm\\view\\createaccountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\gipso\\onedrive\\pulpit\\engineering_project\\engineering_project\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\gipso\\onedrive\\pulpit\\engineering_project\\engineering_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\gipso\\onedrive\\pulpit\\engineering_project\\engineering_project\\services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateAccountView.xaml",
+              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\MVVM\\View\\CreateAccountView.xaml",
+              "RelativeDocumentMoniker": "Engineering_project\\MVVM\\View\\CreateAccountView.xaml",
+              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\MVVM\\View\\CreateAccountView.xaml",
+              "RelativeToolTip": "Engineering_project\\MVVM\\View\\CreateAccountView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T15:05:13.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\Services\\INavigationService.cs",
+              "RelativeDocumentMoniker": "Engineering_project\\Services\\INavigationService.cs",
+              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\Services\\INavigationService.cs",
+              "RelativeToolTip": "Engineering_project\\Services\\INavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:49:32.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Engineering_project\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Engineering_project\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:44:46.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\MVVM\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Engineering_project\\MVVM\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\MVVM\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "Engineering_project\\MVVM\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:52:57.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
