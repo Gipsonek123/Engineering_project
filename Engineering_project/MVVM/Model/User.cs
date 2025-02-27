@@ -12,5 +12,15 @@ namespace Engineering_project.MVVM.Model
         public string Password { get; set; }
         public string Email { get; set; }
         public bool IsAdmin { get; set; }
+
+        public User(string username, string password, string email, bool isAdmin)
+        {
+            Username = username;
+            Password = password;
+            Email = email;
+            IsAdmin = isAdmin;
+        }
     }
+
+
 }

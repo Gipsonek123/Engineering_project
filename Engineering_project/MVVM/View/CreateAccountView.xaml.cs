@@ -23,5 +23,6 @@ namespace Engineering_project.MVVM.View
         {
             InitializeComponent();
         }
+
     }
 }

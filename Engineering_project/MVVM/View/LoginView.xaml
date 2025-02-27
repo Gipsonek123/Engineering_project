@@ -3,19 +3,25 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Engineering_project.MVVM.View"
+        xmlns:local="clr-namespace:Engineering_project.MVVM.ViewModel"
         mc:Ignorable="d"
         Title="LoginView" Height="450" Width="800">
+    <!--zmieniłem z MVVM.Model na MVVM.ViewModel 3 linijki wyzej-->
+    <!--DODANE-->
+    <Window.DataContext>
+        <local:LoginViewModel />
+    </Window.DataContext>
+    <!--DOTĄD-->
     <Grid>
         <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,30,0,0">
             <TextBlock Text="Creating an account" FontSize="50" FontWeight="Bold" HorizontalAlignment="Center"/>
             <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Margin="0,20,0,0">
                 <TextBlock Text="Username:"/>
-                <TextBox Width="200" Height="30"/>
+                <TextBox Text="{Binding LUsernameText}" Width="200" Height="30"/>
                 <TextBlock Text="Password:"/>
-                <PasswordBox Width="200" Height="30"/>
+                <TextBox Text="{Binding LPasswordText}" Width="200" Height="30"/>
             </StackPanel>
-            <Button Content="Create" Width="200" Height="30" Margin="0,10,0,0"></Button>
+            <Button Content="Login" Width="200" Height="30" Margin="0,10,0,0" Command="{Binding LoginCommand}"></Button>
         </StackPanel>
     </Grid>
 </Window>

@@ -1,21 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\",
+  "WorkspaceRootPath": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\gipso\\onedrive\\pulpit\\engineering_project\\engineering_project\\mvvm\\view\\createaccountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\adamk\\onedrive\\pulpit\\in\u017Cynierka\\engineering_project\\engineering_project\\mvvm\\viewmodel\\createaccountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\mvvm\\viewmodel\\createaccountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\adamk\\onedrive\\pulpit\\in\u017Cynierka\\engineering_project\\engineering_project\\mvvm\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\mvvm\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\adamk\\onedrive\\pulpit\\in\u017Cynierka\\engineering_project\\engineering_project\\mvvm\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\mvvm\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\adamk\\onedrive\\pulpit\\in\u017Cynierka\\engineering_project\\engineering_project\\mvvm\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\mvvm\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\adamk\\onedrive\\pulpit\\in\u017Cynierka\\engineering_project\\engineering_project\\mvvm\\view\\createaccountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\mvvm\\view\\createaccountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\gipso\\onedrive\\pulpit\\engineering_project\\engineering_project\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\adamk\\onedrive\\pulpit\\in\u017Cynierka\\engineering_project\\engineering_project\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\gipso\\onedrive\\pulpit\\engineering_project\\engineering_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\adamk\\onedrive\\pulpit\\in\u017Cynierka\\engineering_project\\engineering_project\\mvvm\\model\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\mvvm\\model\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\adamk\\onedrive\\pulpit\\in\u017Cynierka\\engineering_project\\engineering_project\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\adamk\\onedrive\\pulpit\\in\u017Cynierka\\engineering_project\\engineering_project\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\adamk\\onedrive\\pulpit\\in\u017Cynierka\\engineering_project\\engineering_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\adamk\\onedrive\\pulpit\\in\u017Cynierka\\engineering_project\\engineering_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\gipso\\onedrive\\pulpit\\engineering_project\\engineering_project\\services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\adamk\\onedrive\\pulpit\\in\u017Cynierka\\engineering_project\\engineering_project\\mvvm\\view\\createaccountview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\mvvm\\view\\createaccountview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\adamk\\onedrive\\pulpit\\in\u017Cynierka\\engineering_project\\engineering_project\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\adamk\\onedrive\\pulpit\\in\u017Cynierka\\engineering_project\\engineering_project\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\adamk\\onedrive\\pulpit\\in\u017Cynierka\\engineering_project\\engineering_project\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|c:\\users\\adamk\\onedrive\\pulpit\\in\u017Cynierka\\engineering_project\\engineering_project\\services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56CDE2C8-418E-41B6-BCF2-5DFD03FB328A}|Engineering_project\\Engineering_project.csproj|solutionrelative:engineering_project\\services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,55 +74,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MVVM\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Engineering_project\\MVVM\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MVVM\\Model\\User.cs",
+              "RelativeToolTip": "Engineering_project\\MVVM\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:00:04.373Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateAccountView.xaml",
-              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\MVVM\\View\\CreateAccountView.xaml",
-              "RelativeDocumentMoniker": "Engineering_project\\MVVM\\View\\CreateAccountView.xaml",
-              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\MVVM\\View\\CreateAccountView.xaml",
-              "RelativeToolTip": "Engineering_project\\MVVM\\View\\CreateAccountView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-26T15:05:13.217Z",
+              "Title": "CreateAccountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MVVM\\ViewModel\\CreateAccountViewModel.cs",
+              "RelativeDocumentMoniker": "Engineering_project\\MVVM\\ViewModel\\CreateAccountViewModel.cs",
+              "ToolTip": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MVVM\\ViewModel\\CreateAccountViewModel.cs",
+              "RelativeToolTip": "Engineering_project\\MVVM\\ViewModel\\CreateAccountViewModel.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwGEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:00:30.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "INavigationService.cs",
-              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\Services\\INavigationService.cs",
-              "RelativeDocumentMoniker": "Engineering_project\\Services\\INavigationService.cs",
-              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\Services\\INavigationService.cs",
-              "RelativeToolTip": "Engineering_project\\Services\\INavigationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MVVM\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Engineering_project\\MVVM\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MVVM\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "Engineering_project\\MVVM\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwEsAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T14:49:32.084Z"
+              "WhenOpened": "2025-02-27T11:00:38.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MVVM\\Model\\Database.cs",
+              "RelativeDocumentMoniker": "Engineering_project\\MVVM\\Model\\Database.cs",
+              "ToolTip": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MVVM\\Model\\Database.cs",
+              "RelativeToolTip": "Engineering_project\\MVVM\\Model\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:18:05.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MVVM\\View\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Engineering_project\\MVVM\\View\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MVVM\\View\\LoginView.xaml",
+              "RelativeToolTip": "Engineering_project\\MVVM\\View\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T13:21:34.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\Core\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "Engineering_project\\Core\\ObservableObject.cs",
+              "ToolTip": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\Core\\ObservableObject.cs",
+              "RelativeToolTip": "Engineering_project\\Core\\ObservableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:59:45.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\Core\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Engineering_project\\Core\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\Core\\RelayCommand.cs",
+              "RelativeToolTip": "Engineering_project\\Core\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:59:46.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateAccountView.xaml",
+              "DocumentMoniker": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MVVM\\View\\CreateAccountView.xaml",
+              "RelativeDocumentMoniker": "Engineering_project\\MVVM\\View\\CreateAccountView.xaml",
+              "ToolTip": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MVVM\\View\\CreateAccountView.xaml",
+              "RelativeToolTip": "Engineering_project\\MVVM\\View\\CreateAccountView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T15:05:13.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Engineering_project\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MainWindow.xaml",
+              "RelativeToolTip": "Engineering_project\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T11:01:17.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MVVM\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Engineering_project\\MVVM\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MVVM\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "Engineering_project\\MVVM\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:52:57.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateAccountView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MVVM\\View\\CreateAccountView.xaml.cs",
+              "RelativeDocumentMoniker": "Engineering_project\\MVVM\\View\\CreateAccountView.xaml.cs",
+              "ToolTip": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MVVM\\View\\CreateAccountView.xaml.cs",
+              "RelativeToolTip": "Engineering_project\\MVVM\\View\\CreateAccountView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:27:56.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Engineering_project\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\MainWindow.xaml.cs",
               "RelativeToolTip": "Engineering_project\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAADwvxUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -82,15 +220,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\MVVM\\ViewModel\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "Engineering_project\\MVVM\\ViewModel\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\MVVM\\ViewModel\\MainViewModel.cs",
-              "RelativeToolTip": "Engineering_project\\MVVM\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwBQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Engineering_project\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\AssemblyInfo.cs",
+              "RelativeToolTip": "Engineering_project\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T12:52:57.688Z"
+              "WhenOpened": "2025-02-27T11:01:14.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Engineering_project\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\App.xaml.cs",
+              "RelativeToolTip": "Engineering_project\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:01:14.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\App.xaml",
+              "RelativeDocumentMoniker": "Engineering_project\\App.xaml",
+              "ToolTip": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\App.xaml",
+              "RelativeToolTip": "Engineering_project\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T11:27:43.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "INavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\Services\\INavigationService.cs",
+              "RelativeDocumentMoniker": "Engineering_project\\Services\\INavigationService.cs",
+              "ToolTip": "C:\\Users\\adamk\\OneDrive\\Pulpit\\In\u017Cynierka\\Engineering_project\\Engineering_project\\Services\\INavigationService.cs",
+              "RelativeToolTip": "Engineering_project\\Services\\INavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:49:32.084Z"
             }
           ]
         }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\Engineering_project.csproj": {}
+    "C:\\Users\\adamk\\OneDrive\\Pulpit\\Inżynierka\\Engineering_project\\Engineering_project\\Engineering_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\Engineering_project.csproj": {
+    "C:\\Users\\adamk\\OneDrive\\Pulpit\\Inżynierka\\Engineering_project\\Engineering_project\\Engineering_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\Engineering_project.csproj",
+        "projectUniqueName": "C:\\Users\\adamk\\OneDrive\\Pulpit\\Inżynierka\\Engineering_project\\Engineering_project\\Engineering_project.csproj",
         "projectName": "Engineering_project",
-        "projectPath": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\Engineering_project.csproj",
-        "packagesPath": "C:\\Users\\gipso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gipso\\OneDrive\\Pulpit\\Engineering_project\\Engineering_project\\obj\\",
+        "projectPath": "C:\\Users\\adamk\\OneDrive\\Pulpit\\Inżynierka\\Engineering_project\\Engineering_project\\Engineering_project.csproj",
+        "packagesPath": "C:\\Users\\adamk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adamk\\OneDrive\\Pulpit\\Inżynierka\\Engineering_project\\Engineering_project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gipso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\adamk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -42,13 +42,27 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -68,7 +82,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
